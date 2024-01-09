@@ -1,4 +1,4 @@
-/*
+/ 
  * main.c
  * Copyright (C) 2017 Kovid Goyal <kovid at kovidgoyal.net>
  *
@@ -49,3 +49,4 @@ int main(int UNUSED argc, char UNUSED **argv) {
     xmlCleanupParser();
     return 0;
 }
+ 
